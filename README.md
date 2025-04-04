@@ -34,7 +34,7 @@
 
 ```bash
 # Cloner le dépôt
-git clone https://github.com/votre-utilisateur/eco-challenge.git
+git clone https://github.com/abdelHamid-saidi/Hackathon-IA.git
 cd eco-challenge
 
 # Installer les dépendances
