@@ -13,7 +13,7 @@ const VideoSection = () => {
       <div className="relative flex items-center justify-center aspect-video rounded-xl overflow-hidden bg-black">
         {isPlaying ? (
           <video
-            src="https://www.w3schools.com/html/mov_bbb.mp4"
+            src="/Eco-challenge.mp4"
             controls
             autoPlay
             className="w-full h-full object-cover"
